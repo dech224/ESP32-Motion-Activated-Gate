@@ -23,3 +23,6 @@ ESP32 powered circuit that uses an ultrasonic sensor and micro servo motor to cr
 - 2x LEDs (Red and Green)
 - Breadboard & Jumper Wires
 - Power Supply (5V)
+
+![Circuit Diagram](project1_diagram.jpg)
+![Photo](project1_img1.jpg)
