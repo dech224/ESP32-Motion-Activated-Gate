@@ -29,3 +29,9 @@ ESP32 powered circuit that uses an ultrasonic sensor and micro servo motor to cr
 
 ## Photo
 ![Photo](project1_img1.jpeg)
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+Colin DeChambeau
