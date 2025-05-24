@@ -24,5 +24,8 @@ ESP32 powered circuit that uses an ultrasonic sensor and micro servo motor to cr
 - Breadboard & Jumper Wires
 - Power Supply (5V)
 
+## Circuit Diagram
 ![Circuit Diagram](project1_diagram.jpg)
-![Photo](project1_img1.jpg)
+
+## Photo
+![Photo](project1_img1.jpeg)
